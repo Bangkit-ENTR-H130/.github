@@ -5,6 +5,9 @@ After some research and observation, we noticed that many young people in Indone
 
 ## Screenshots
 These are the screenshot of our product.
+<img src="https://github.com/Bangkit-ENTR-H130/.github/blob/main/profile/1.png" width="24%"></img>
+<img src="https://github.com/Bangkit-ENTR-H130/.github/blob/main/profile/2.png" width="24%"></img>
+<img src="https://github.com/Bangkit-ENTR-H130/.github/blob/main/profile/3.png" width="24%"></img>
 
 ## Demo Apps
 This will show you how the app works. You can direcly access the link demo X-Detect applications using [by this link](https://drive.google.com/file/d/1ywAzmn3gBVWiGgd40FuMsBHGvFhFaF4Q/view?usp=sharing)

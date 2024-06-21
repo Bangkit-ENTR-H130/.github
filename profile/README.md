@@ -1,4 +1,4 @@
-
+![My Image](https://github.com/Bangkit-ENTR-H130/.github/blob/main/profile/Yohana.jpg)
 # NaraSpeak
 
 After some research and observation, we noticed that many young people in Indonesia lack confidence in speaking English due to fear of being judged by others because of their grammatical mistakes. To solve this, we aim to create a safe and supportive environment where users can be matched with strangers to practice their English skills. Our platform will provide real-time grammatical feedback to help users improve their grammar without the fear of making mistakes. Additionally, NaraSpeak is designed to be budget-friendly, making it accessible for anyone to practice their speaking skills with affordable price.
@@ -6,13 +6,18 @@ After some research and observation, we noticed that many young people in Indone
 ## Screenshots
 These are the screenshot of our product.
 
+
+<img src="https://github.com/Bangkit-ENTR-H130/.github/blob/main/profile/1.png" width="24%"></img>
+<img src="https://github.com/Bangkit-ENTR-H130/.github/blob/main/profile/2.png" width="24%"></img>
+<img src="https://github.com/Bangkit-ENTR-H130/.github/blob/main/profile/3.png" width="24%"></img>
+
 ## Demo Apps
-This will show you how the app works. You can direcly access the link demo X-Detect applications using [by this link]
+This will show you how the app works. You can direcly access the link demo X-Detect applications using [by this link](https://drive.google.com/file/d/1ywAzmn3gBVWiGgd40FuMsBHGvFhFaF4Q/view?usp=sharing)
 
 ## Installation
-Here is the step to install NaraSpeak.
+Here is the link to install [NaraSpeak](https://drive.google.com/drive/folders/102AMF073Xzdt6WAwIK-XsxVvTGnAyW5I).
 
-The prototype design of this application is based on Figma. If you want to see the prototype design of this application, you can access it using the link provided below.
+The prototype design of this application is based on Figma. If you want to see the prototype design of this application, you can access it using the link provided [here](https://www.figma.com/design/Pj1VTWCckgDNg0HPDDPznb/Untitled?node-id=0-1&t=EYmHoxkxfz2gsNSB-0).
 
 ## Key Features
 -  Safe learning environment for English speaking practice with video call sessions.
@@ -30,7 +35,7 @@ For more detail, please check [this main API repository](https://github.com/Bang
 
 For more detail, please check [this main API repository](https://github.com/Bangkit-ENTR-H130/RealTime_STT/tree/main/Real-time-transcription-with-Google-speech-to-text-API-main).
 
-**Machine Learning Model:** Fine Tuning Flan T5 Large Grammar Synthesis (Dataset: C4 200M Grammar Correction), Hugging Face, Transformers, Tensorflow, Torch, Python, Kaggle & Colab Notebook.
+**Machine Learning Model:** 
 
 For more detail, please check [this repository](https://github.com/Bangkit-ENTR-H130/NaraSpeak-ML)
 
@@ -43,3 +48,4 @@ Bangkit 2024 Capstone Team C23-PC603
 - [Bima Maulana](https://www.linkedin.com/in/bimaulan/) - Cloud Computing - C319D4KY0811
 - [Muhammad Alief Rahman Fardillah](https://www.linkedin.com/in/muhalief/) - Mobile Development - A208D4KY3993.
 
+# .github

@@ -35,7 +35,7 @@ For more detail, please check [this main API repository](https://github.com/Bang
 
 For more detail, please check [this main API repository](https://github.com/Bangkit-ENTR-H130/RealTime_STT/tree/main/Real-time-transcription-with-Google-speech-to-text-API-main).
 
-**Machine Learning Model:** 
+**Machine Learning Model:** Fine Tuning Flan T5 Large Grammar Synthesis (Dataset: C4 200M Grammar Correction), Hugging Face, Transformers, Tensorflow, Torch, Python, Kaggle & Colab Notebook.
 
 For more detail, please check [this repository](https://github.com/Bangkit-ENTR-H130/NaraSpeak-ML)
 

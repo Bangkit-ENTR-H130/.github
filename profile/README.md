@@ -1,4 +1,4 @@
-![My Image](https://github.com/Bangkit-ENTR-H130/NaraSpeak-Android/blob/master/app/WhatsApp%20Image%202024-06-20%20at%2019.49.27.jpeg)
+
 # NaraSpeak
 
 After some research and observation, we noticed that many young people in Indonesia lack confidence in speaking English due to fear of being judged by others because of their grammatical mistakes. To solve this, we aim to create a safe and supportive environment where users can be matched with strangers to practice their English skills. Our platform will provide real-time grammatical feedback to help users improve their grammar without the fear of making mistakes. Additionally, NaraSpeak is designed to be budget-friendly, making it accessible for anyone to practice their speaking skills with affordable price.

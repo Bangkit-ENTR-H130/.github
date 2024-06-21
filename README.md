@@ -7,12 +7,12 @@ After some research and observation, we noticed that many young people in Indone
 These are the screenshot of our product.
 
 ## Demo Apps
-This will show you how the app works. You can direcly access the link demo X-Detect applications using [by this link]
+This will show you how the app works. You can direcly access the link demo X-Detect applications using [by this link](https://drive.google.com/file/d/1ywAzmn3gBVWiGgd40FuMsBHGvFhFaF4Q/view?usp=sharing)
 
 ## Installation
-Here is the step to install NaraSpeak.
+Here is the link to install [NaraSpeak](https://drive.google.com/drive/folders/102AMF073Xzdt6WAwIK-XsxVvTGnAyW5I).
 
-The prototype design of this application is based on Figma. If you want to see the prototype design of this application, you can access it using the link provided below.
+The prototype design of this application is based on Figma. If you want to see the prototype design of this application, you can access it using the link provided [here](https://www.figma.com/design/Pj1VTWCckgDNg0HPDDPznb/Untitled?node-id=0-1&t=EYmHoxkxfz2gsNSB-0).
 
 ## Key Features
 -  Safe learning environment for English speaking practice with video call sessions.
